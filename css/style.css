@@ -103,7 +103,7 @@
 }
 
 @media screen and (max-width:900px){
-.header{
+.header-top{
 	width: 100%;
 }
 .container{
@@ -122,7 +122,7 @@
 }
 
 @media screen and (max-width:590px){
-.header{
+.header-top{
 	padding-bottom: 20px;
 }
 	
